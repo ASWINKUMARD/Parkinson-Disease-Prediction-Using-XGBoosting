@@ -1,2 +1,41 @@
-# Parkinson-Disease-Prediction-Using-XGBoosting
-This project uses XGBoost, a powerful machine learning algorithm, to detect Parkinson’s disease from biomedical voice or sensor data. By analyzing features like vocal frequency, amplitude, and jitter, the model classifies patients with high accuracy, enabling early diagnosis &amp; improving treatment planning for Parkinson’s disease detection.
+# 🧠 Parkinson’s Disease Detection using XGBoost 🚀
+
+# 📋 Project Overview
+
+- This project uses XGBoost (Extreme Gradient Boosting) to detect Parkinson’s disease based on biomedical voice data. 🎙️
+- By analyzing features,the model predicts whether a person is affected by Parkinson’s disease. 💡
+
+# 🎯 Objective
+
+- To build a machine learning model that can accurately detect Parkinson’s disease using patient data, aiding in early diagnosis and better healthcare planning. 🏥
+
+# 🧩 Features
+
+✅ Data preprocessing and feature scaling
+✅ XGBoost model training and hyperparameter tuning
+✅ Performance evaluation using accuracy, confusion matrix, and classification report
+✅ Visualization of feature importance and model results 📊
+
+# 🧠 Technologies Used
+
+🐍 Python
+
+📘 XGBoost
+
+📊 Scikit-learn
+
+🧮 Pandas, NumPy
+
+🎨 Matplotlib, Seaborn
+
+# 📈 Results
+
+- The XGBoost model achieved high accuracy in predicting Parkinson’s disease 🎯, proving the effectiveness of boosting techniques in biomedical data analysis.
+
+# 🌟 Future Improvements
+
+- Incorporate deep learning models for comparison 🤖
+
+- Add real-time prediction interface using Streamlit 🌐
+
+- Use larger and more diverse datasets for better generalization 📂
