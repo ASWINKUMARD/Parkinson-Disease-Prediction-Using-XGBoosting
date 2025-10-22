@@ -39,3 +39,9 @@
 - Add real-time prediction interface using Streamlit 🌐
 
 - Use larger and more diverse datasets for better generalization 📂
+
+  ### 👨‍💻 Author
+
+**Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
